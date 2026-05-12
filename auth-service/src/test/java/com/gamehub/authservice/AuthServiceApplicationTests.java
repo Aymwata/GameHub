@@ -1,10 +1,10 @@
-package com.gamehub.categoryservice;
+package com.gamehub.authservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CategoryServiceApplicationTests {
+class AuthServiceApplicationTests {
 
     @Test
     void contextLoads() {
